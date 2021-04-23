@@ -1,0 +1,9 @@
+https://www.kaggle.com/abhinavmoudgil95/short-jokes
+https://www.kaggle.com/jiriroz/qa-jokes
+https://www.kaggle.com/vikashrajluhaniwal/jester-17m-jokes-ratings-dataset
+https://www.kaggle.com/averkij/reddit-jokes-dataset
+https://www.kaggle.com/cuddlefish/reddit-rjokes
+https://www.kaggle.com/sameerdev7/joke-rating
+https://www.kaggle.com/bfinan/jokes-question-and-answer
+https://www.kaggle.com/bhrt97/joke-rating-prediction
+https://www.kaggle.com/sachin619/jester-dataset

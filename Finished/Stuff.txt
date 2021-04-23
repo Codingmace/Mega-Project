@@ -1,0 +1,6 @@
+Final Version Software - For all the softwares Finished
+Incremental Backup - Programming = to compress backup size based on compatable files
+Medication Research - Questions and Answers = More information on my medications that I take
+MultiWordDictionary - Programming = Used for word correction and words possible. Not a project but just resources
+Hannah HoneyComb - Building = Blueprint for honeycomb shelves that look really cool and didn't take much time to build
+Disability Workforce Data - The data to figure out what percentage Male between 16 - 22, bipolar, disabled in the computer field is (very rare)

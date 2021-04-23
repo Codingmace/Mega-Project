@@ -1,0 +1,7 @@
+Done
+Added a lot of information on how to build the database
+Also the information processing is important because I added a lot of files for reference but didn't neccesssarily used all of them in the program
+
+Issues
+- It is the only basis outline and basic file for building the theoretical way of using it. No GUi because it is based on console and neo need for it.
+- Already out there a version of it so don't neccessarily need to write it

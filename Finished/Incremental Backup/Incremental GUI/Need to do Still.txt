@@ -1,0 +1,24 @@
+Main
+
+Main Menu
+- Scroller Bar = Make accessable when it is X big
+- Make the text avaliable until adding files
+- For the widget add in the dropping function
+- CHECKED BOX OF ACCEPT DROPPED
+- Make the top invisible
+- Pressed and Clicked Difference for the TreeView
+- Update or do the other things to the frame
+
+Compress
+- Write the status on the window and at that point
+- Modify the status bar for that point
+
+DeCompress
+- The same of The compression because it is going to be the same layout but Needs different versions
+- Also needs the decompressesion issue and error version.
+
+Quitting
+- Need to make the background clear
+- Buttons need to program
+- CHeck that the Signals for destroyed are right. Doesn't crash and just closes
+- Set up accept to reset the main and start over

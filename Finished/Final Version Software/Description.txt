@@ -1,0 +1,1 @@
+The folder is for softwares that are done. They are not final but the last version of compiled EXE file that I can use even if it is not perfect

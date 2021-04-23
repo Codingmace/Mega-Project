@@ -1,0 +1,228 @@
+pip install youtube-websearch
+THis for youtube videos
+
+https://pypi.org/project/python-fs-stack/
+Family search
+
+https://pypi.org/project/voicecoding/
+Want to do talk to coding
+
+https://pypi.org/project/habu/
+Hacking with Habu Thing
+Really good for the things we may want to do
+
+https://www.familysearch.org/developers/docs/api/resources
+Searching up for family
+
+Upgrade to Auto-Speech-Recognition
+
+Move Greetings to basic Helper
+
+Split up the main to more functions
+
+create it user specific by having a lot of information moving. Next step after We get past this one.
+
+Videoing stuff
+https://pypi.org/project/vidgear/
+
+
+Object Detection
+https://github.com/facebookresearch/detectron2
+
+
+Look near the end
+https://www.squash.io/16-amazing-python-libraries-you-should-be-using-now/
+
+For the actors on imdb
+https://www.imdb.com/list/ls058011111/?sort=list_order,asc&mode=detail&page=2
+
+https://www.kaggle.com/ciplab/real-and-fake-face-detection
+
+https://susanqq.github.io/UTKFace/
+
+https://github.com/NVlabs/ffhq-dataset
+
+Deblurring
+
+Learn new people into the database
+
+Car automation things
+
+Use soundcard for input
+(Or search Pypi website)
+
+Scan Documents
+https://blog.api.rakuten.net/top-10-best-security-apis-twilio-virustotal/
+
+
+
+Access Network Devices and control them
+
+Access the stock market values
+
+Transfer more to free API 
+
+Add launching from microsoft Store
+
+
+carmd.com api
+
+
+PokemonAPI - Improving to give counters
+
+enhance the diagnositices
+
+create a way to input api documents and write its own code through learning and a layout
+
+Unethical jokes
+unpolitically correct jokes
+
+https://www.reddit.com/r/funny/comments/293t0u/50_of_the_most_offensive_jokes/
+
+https://xspdf.com/resolution/54659367.html
+
+https://pvpoke.com/rankings/
+
+
+Convert Youtube Download to a free one
+
+All words from video to text
+
+Text Monkey Summarizer
+ADD FaceMaskDetection
+Check Which Mailgun it is (Don't think using yet)
+Write personal Code for vehicle recognition
+Check Youtube to mp3 Download is right.
+Add another one to youtube download
+Check Image to Text is right
+Verify Mailgun is right
+Check Summarization (VS Text-monkey-summarizer)
+Write body pose in own code
+Add Wiki How Maybe
+
+
+
+Phone Number Info
+https://pypi.org/project/phone-iso3166/
+https://pypi.org/project/phonenumbers/
+
+Validate Email
+https://pypi.org/project/email-validator/
+https://pypi.org/project/validate_email/
+
+
+Youtube
+https://github.com/ytdl-org/youtube-dl
+
+
+https://kalebujordan.com/tag/machine-learning/
+
+
+
+https://kalebujordan.com/emotion-detection-from-text-python/
+
+https://kalebujordan.com/python-language-translation/
+
+https://kalebujordan.com/scrap-worldometers-live-update-with-beautifulsoup/
+
+https://kalebujordan.com/speed-up-your-python-program-using-memoization/
+
+Weather
+https://darksky.net/details/33.158,-96.711/2021-2-8/us12/en
+
+Classifier
+https://textblob.readthedocs.io/en/dev/quickstart.html#part-of-speech-tagging
+
+Stock?
+Reddit searching
+
+
+Weather
+https://www.worldweatheronline.com/
+
+https://www.almanac.com/
+
+Recipies
+
+Television
+https://thetvdb.com/
+
+Music Lyrics
+https://www.musixmatch.com/lyrics/Olivia-Rodrigo/drivers-license
+
+CryptoCurrancy Data
+https://www.coinlore.com/cryptocurrency-data-api
+
+Detection by facebook
+https://github.com/Kalebu/Detectron
+
+API List
+https://github.com/Kalebu/public-apis
+
+Number Validate
+https://numvalidate.com/
+
+Recipies
+https://api2.bigoven.com/web/documentation/recipe-images
+
+Medical Database
+https://pubmed.ncbi.nlm.nih.gov/
+
+Travel Info
+https://www.skyscanner.com/
+
+No CLue
+https://www.wordnik.com/
+
+Building an API
+https://rapidapi.com/blog/how-to-build-an-api-in-python/
+
+
+Jokes
+https://sv443.net/jokeapi/v2/
+https://github.com/15Dkatz/official_joke_api
+
+Trivia
+https://opentdb.com/api_config.php
+
+Goverment Databases
+https://catalog.data.gov/dataset
+https://catalog.data.gov/
+
+Do Search on bin lookup api
+
+Board API
+https://www.boredapi.com/
+
+Open Movie database
+http://www.omdbapi.com/#usage
+https://www.themoviedb.org/documentation/api
+
+Caller Thing
+https://www.callcontrol.com/documentation/
+
+NHTSA
+https://vpic.nhtsa.dot.gov/api/
+
+Dad Jokes
+https://icanhazdadjoke.com/api
+
+Email Verify
+https://www.neutrinoapi.com/api/email-verify/
+
+RateMyProfessor
+https://pypi.org/project/RateMyProfessorPyAPI/
+
+http://www.rssweather.com/zipcode/75002/wx.php
+
+https://automatetheboringstuff.com/chapter9/
+For the seleting stuff
+
+Autofiller online thing.
+
+
+Chess Game
+
+Night2 day filter
+https://pypi.org/project/n2dit/
+

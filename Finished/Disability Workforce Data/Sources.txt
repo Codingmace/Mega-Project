@@ -1,0 +1,4 @@
+https://ourworldindata.org/grapher/prevalence-of-bipolar-disorder-by-age
+https://www.census.gov/data/tables/2017/demo/disability/acs-17.html
+https://data.census.gov/cedsci/table?q=disability%20employment&tid=ACSDT1Y2019.B18120&hidePreview=false
+https://www.nimh.nih.gov/health/statistics/bipolar-disorder.shtml

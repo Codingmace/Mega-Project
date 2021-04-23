@@ -1,0 +1,12 @@
+The things that it can do right now
+It can compress a folder of files and each one writes the file so it can decompress
+The decompress function has been partly written but not neccessary works because on time crunch and believe with the information given I could write it easily.
+See the GUI that added to when editing it the second time
+
+Issues that it can
+- If the zip file is corrupted
+- If the zip file has a password
+- If there is any reason for it to stop for any reason
+- If there is a slight differencce in naing
+- If there is an issue with the format of the file name
+- If the file is named zip but not in the right format (Minor)

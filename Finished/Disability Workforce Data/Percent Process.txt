@@ -1,0 +1,63 @@
+Their is about Total of 197,503,214
+Starting out we are going to do disability employed and that is 
+7,888,441 with 51,399 error
+7,939,840
+Breaking down more to cognitive difficulty as that is the main one focusing on
+2,765,455 with 32,130 error or 1.40% with 1.1618% MOE
+
+The occupation has total of 
+3,406,230	30,560	3,146,680	28,820	2,533,070 27,622
+which is 9,085,980 with 87,002 which is a little higher then the 7.8 in the other chart.
+
+Under 16
+155,041,900 | 138,778 Total
+9,085,980 | 87,002 Total in the field 
+8,998,978
+which I made the mistake of using and now focusing on the other numbers
+
+CS is what focusing on with Adding the amounts and taking average of the percentages
+Total Amount is 8,924,740 with 59,309 MOE and 4,710,350	with 38,915 MOE
+Or 13,635,090 with 98,224
+Percentage working full time is 
+78.94 with 1.04 MOE and 81.34 with 1.52 MOE
+107,117 | 5763
+58.32 | .23 working full time disabled
+66,178 | 6136
+Working 16 - 22 Years
+135,695	with 5,541 MOE and 81,360 with 4,037 MOE
+Based on census we want to calculate the Bipolar rate and are given up to 2017. Based on it barely moving I would assume that it would be .9570% to be on the high side so MOE is .002
+I noticed that was wrong and wasnted the full percentage and it only went to 2017 so I looked for a more accurate
+I went to fourth site and just going to use straight 2.8%
+Looking back I noticed the labor work force for first one is 155 Mil and around the same for the other one so it is a straight comparision.
+That bipolar is a sub catagory that is workign
+
+Just for fun wages is around 10k less than without disability
+
+Full Breakdown
+First Chart 
+197,503,214 Total
+7,888,441 | 51,399 With Disablilty
+2,765,455 | 32,130 or 1.40% | 1.1618% with Cognative
+Focus on Occupation
+13,635,090 | 98,224 working in field
+3,406,230 | 30,560 total working
+78.94 | 1.04 Full Time on first occupation
+81.34 | 1.52 on second occupation
+173,295 | 11,890 Full time 16-44
+
+Fourth Stat
+2.8% | .1% stat bipolar
+
+Difference disabled is using the + on first and - on other is 1.13339 times bigger (Using percentages that doesn't really matter)
+So out of the 7,888,441 we have the disabled and cognative used is
+2,765,455 | 32,130 or 1.40% | 1.1618% with Cognative
+From that we smaller by 2.8% | .1% being bipolar
+From their we have working full-time in specific field is .11177% | 8.567%
+
+
+Math 0.000392 of being bipolar disabled and .0000004381384% in the field
+
+
+.0000004381384%
+
+so 145.207828528 in the US
